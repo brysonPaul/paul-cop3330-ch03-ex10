@@ -30,6 +30,5 @@ int main() {
 	cin >> op2;
 	double result = arithmetic(operation[0], op1,op2);
 
-
 	cout << result;//prints result
 }
